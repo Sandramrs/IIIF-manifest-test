@@ -5,7 +5,7 @@
   "label" : "Diary of John Ruskin, 1861-1863",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "Manuscript by John Ruskin. This volume contains many geological notes, especially of Switzerland: here, a cross-section of mountains between St. Beatenberg and Habkern, above the Lake of Thun.",
+    "@value" : "[Click to edit description]",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
@@ -18,71 +18,60 @@
       "@language" : "en"
     } ],
     "canvases" : [ {
-      "@id" : "http://486b5de2-c560-438e-a36d-a48acc6e0ed1",
+      "@id" : "http://d326e631-233f-45b6-b155-8128526aea84",
       "@type" : "sc:Canvas",
       "label" : "page 32",
       "height" : 3801,
       "width" : 2737,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://29cce4b1-19ca-46be-af88-721e81744732",
+        "@id" : "http://00d9f612-26f9-4032-ab00-77ef14d4fd2e",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/ms-1233-verso/full/full/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/ms-1233-verso_202201/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/ms-1233-verso",
+            "@id" : "https://iiif.archivelab.org/iiif/ms-1233-verso_202201",
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
           "height" : 3801,
           "width" : 2737
         },
-        "on" : "http://486b5de2-c560-438e-a36d-a48acc6e0ed1"
+        "on" : "http://d326e631-233f-45b6-b155-8128526aea84"
       } ],
       "related" : ""
     }, {
-      "@id" : "http://77a5bfd5-0e7e-4db1-91d0-db6ac8fde3a7",
+      "@id" : "http://e448c341-7408-4ad2-bc77-1e2828c82cd5",
       "@type" : "sc:Canvas",
       "label" : "page 33",
       "height" : 3885,
       "width" : 2955,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://6a3dce47-9db2-4d0f-9f67-745979cc4654",
+        "@id" : "http://ed85ca2e-60d0-4591-b25c-995126bca7c8",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/ms-1233-recto/full/full/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/ms-1233-recto_202201/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/ms-1233-recto",
+            "@id" : "https://iiif.archivelab.org/iiif/ms-1233-recto_202201",
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
           "height" : 3885,
           "width" : 2955
         },
-        "on" : "http://77a5bfd5-0e7e-4db1-91d0-db6ac8fde3a7"
+        "on" : "http://e448c341-7408-4ad2-bc77-1e2828c82cd5"
       } ],
       "related" : ""
     } ]
   } ],
-  "structures" : [ {
-    "@id" : "http://example.org/iiif/book1/range/top",
-    "@type" : "sc:Range",
-    "label" : "Table of Content",
-    "viewingHint" : "top",
-    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
-  }, {
-    "@id" : "http://example.org/iiif/book1/range/intro",
-    "@type" : "sc:Range",
-    "label" : "Introduction",
-    "canvases" : [ "$YOUR_CANVAS_ID" ]
-  } ],
+  "structures" : [ ],
   "thumbnail" : {
     "@id" : "http://486b5de2-c560-438e-a36d-a48acc6e0ed1"
   }
