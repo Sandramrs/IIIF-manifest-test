@@ -1,0 +1,66 @@
+{
+  "id" : "https://Sandramrs.github.io/IIIF-manifest-test/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in Sandramrs/IIIF-manifest-test project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2624,
+    "id" : "https://Sandramrs.github.io/IIIF-manifest-test/images/20200916_1/canvas/",
+    "label" : {
+      "none" : [ "20200916_1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Sandramrs.github.io/IIIF-manifest-test/images/20200916_1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Sandramrs.github.io/IIIF-manifest-test/images/20200916_1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 82,
+              "height" : 123
+            }, {
+              "width" : 164,
+              "height" : 246
+            }, {
+              "width" : 328,
+              "height" : 492
+            }, {
+              "width" : 656,
+              "height" : 984
+            }, {
+              "width" : 1312,
+              "height" : 1968
+            }, {
+              "width" : 2624,
+              "height" : 3936
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2624,
+            "@id" : "https://Sandramrs.github.io/IIIF-manifest-test/images/20200916_1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3936
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2624,
+          "id" : "https://Sandramrs.github.io/IIIF-manifest-test/images/20200916_1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3936
+        },
+        "target" : "https://Sandramrs.github.io/IIIF-manifest-test/images/20200916_1/canvas/"
+      } ]
+    } ],
+    "height" : 3936
+  } ]
+}
