@@ -1,0 +1,13 @@
+{
+  "id" : "https://Sandramrs.github.io/IIIF-manifest-test/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Sandramrs/IIIF-manifest-test project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Sandramrs.github.io/IIIF-manifest-test/manifests/manifest2.json",
+    "label" : "Diary of John Ruskin, 1861-1863"
+  } ]
+}
