@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://Sandramrs.github.io/IIIF-manifest-test/annotations/00ec415c7b0ebec6530e52a7b9116502.json" ],
+  "otherContent" : [ "https://Sandramrs.github.io/IIIF-manifest-test/annotations/00ec415c7b0ebec6530e52a7b9116502.json", "https://Sandramrs.github.io/IIIF-manifest-test/annotations/95dab3e294df3deea860923b434c0fb9.json" ],
   "@id" : "https://Sandramrs.github.io/IIIF-manifest-test/annotations/collection.json",
   "label" : "All annotations loaded in Sandramrs/IIIF-manifest-test project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
