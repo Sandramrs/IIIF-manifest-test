@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : "sc:Manifest",
-    "@id" : "https://Sandramrs.github.io/IIIF-manifest-test/manifests/manifest2.json",
-    "label" : "Diary of John Ruskin, 1861-1863"
-  } ]
+  "items" : [ ]
 }
