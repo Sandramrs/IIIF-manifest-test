@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-weight: bold; color: #5f6368; font-family: arial, sans-serif;\">Cruseilles<span style=\"color: #4d5156; font-family: arial, sans-serif;\">&nbsp;is a town and commune in the Haute-Savoie department in the Auvergne-Rh&ocirc;ne-<span style=\"font-weight: bold; color: #5f6368; font-family: arial, sans-serif;\">Alpes<span style=\"color: #4d5156; font-family: arial, sans-serif;\">&nbsp;region in south-eastern France",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-weight: bold; color: #5f6368; font-family: arial, sans-serif;\">Cruseilles</span><span style=\"color: #4d5156; font-family: arial, sans-serif;\">&nbsp;is a town and commune in the Haute-Savoie department in the Auvergne-Rh&ocirc;ne-</span><span style=\"font-weight: bold; color: #5f6368; font-family: arial, sans-serif;\">Alpes</span><span style=\"color: #4d5156; font-family: arial, sans-serif;\">&nbsp;region in south-eastern France</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98517700",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-01-28T10:07:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1643364474374",
+    "dcterms:modified" : "2022-01-28T10:07:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Sandramrs.github.io/IIIF-manifest-test/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1355,120,393,143"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1355.36151,120.08404h196.45455v0h196.45455v71.45455v71.45455h-196.45455h-196.45455v-71.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_cdce7118-3071-4194-a061-5ecc3be4e720\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d326e631-233f-45b6-b155-8128526aea84"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #4d5156; font-family: arial, sans-serif;\">The&nbsp;<span style=\"font-weight: bold; color: #5f6368; font-family: arial, sans-serif;\">Sal&egrave;ve<span style=\"color: #4d5156; font-family: arial, sans-serif;\">&nbsp;or Mont&nbsp;<span style=\"font-weight: bold; color: #5f6368; font-family: arial, sans-serif;\">Sal&egrave;ve<span style=\"color: #4d5156; font-family: arial, sans-serif;\">, is a mountain of the French Prealps located in the department of Haute-Savoie in Auvergne-Rh&ocirc;ne-Alpes",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #4d5156; font-family: arial, sans-serif;\">The&nbsp;</span><span style=\"font-weight: bold; color: #5f6368; font-family: arial, sans-serif;\">Sal&egrave;ve</span><span style=\"color: #4d5156; font-family: arial, sans-serif;\">&nbsp;or Mont&nbsp;</span><span style=\"font-weight: bold; color: #5f6368; font-family: arial, sans-serif;\">Sal&egrave;ve</span><span style=\"color: #4d5156; font-family: arial, sans-serif;\">, is a mountain of the French Prealps located in the department of Haute-Savoie in Auvergne-Rh&ocirc;ne-Alpes</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98517700",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-01-28T10:08:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1643364506928",
+    "dcterms:modified" : "2022-01-28T10:08:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Sandramrs.github.io/IIIF-manifest-test/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=981,1145,511,172"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M981.07984,1145.49007h255.61818v0h255.61818v86.09091v86.09091h-255.61818h-255.61818v-86.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2ba2dace-bbd2-43d4-a916-4c7f24cddb27\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d326e631-233f-45b6-b155-8128526aea84"
+    } ]
+  } ],
+  "@id" : "https://Sandramrs.github.io/IIIF-manifest-test/annotations/95dab3e294df3deea860923b434c0fb9.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
