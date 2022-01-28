@@ -3,6 +3,13 @@
   "@id" : "https://Sandramrs.github.io/IIIF-manifest-test/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "Diary of John Ruskin, 1861-1863",
+  "service": {
+
+    "profile": "http://iiif.io/api/search/0/search",
+    "@id": "https://sas.gdmrdigital.com/search-api/cabbb6de5303266bd9adc6cb23fb5c1b/search",
+    "@context": "http://iiif.io/api/search/0/context.json"
+
+},
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Manuscript by John Ruskin. This volume contains many geological notes, especially of Switzerland: here, a cross-section of mountains between St. Beatenberg and Habkern, above the Lake of Thun.",
